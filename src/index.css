@@ -1,0 +1,23 @@
+body{
+    margin : 0 auto;
+}
+
+.lableContent {
+    width: 100%;
+    background-color: #ccc;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 42px;
+    display: inline-table;
+}
+
+.keyContnet{
+    padding-right: 100px;
+}
+
+.headerInfo{
+    text-align: center;
+    background-color: #ccc;
+    margin: 0 !important;
+    padding: 0 !important;
+}
